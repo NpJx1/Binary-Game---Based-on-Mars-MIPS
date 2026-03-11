@@ -1,0 +1,1 @@
+"# Binary-Game---Based-on-Mars-MIPS"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/NpJx1/Binary-Game---Based-on-Mars-MIPS.gitgit push -u origin main
